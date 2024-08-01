@@ -18,7 +18,7 @@ setup(
     description="A package to generate certificates with a given name and a logo in the top middle.",
     long_description=open('README.md').read(),
     long_description_content_type='text/markdown',
-    url="https://github.com/asibhossen897/certificate_generator",
+    url="https://github.com/codewithasib/certificate_generator",
     classifiers=[
         "Programming Language :: Python :: 3",
         "License :: OSI Approved :: MIT License",
