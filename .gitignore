@@ -1,0 +1,7 @@
+.venv/
+.idea/
+
+# package related
+build/
+dist/
+certificate_generator.egg-info/
